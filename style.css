@@ -144,3 +144,16 @@ footer {
     color: gray;
     font-weight: 400;
 }
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+    padding: 0% 10%;
+    gap: 30px;
+    
+
+}
+
+.contribute-image{
+    width 70%;
+}
