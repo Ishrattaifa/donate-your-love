@@ -13,7 +13,7 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
     height: 90vh;
-    width: 209vh;
+    width: 205vh;
     margin-top: 0%;
     padding: 1%;
     
@@ -35,12 +35,64 @@ h1{
 .donate-button{
     padding: 16px 21px;
     margin-top: 20px;
-    background-color:tomato;
+    background-color:#FF5959
+    ;
     border-radius: 5px;
-    border: none;
     text-decoration: none;
     color: white;
     font-family: poppins;
     font-weight: 600;
 }
 
+.donation-part{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    text-align: center;
+}
+.donation-area-intro{
+    font-family: poppins;
+    color: gray;
+    font-weight: 400;
+}
+.donation-amount{
+    display: flex;
+    color: gray;
+    font-size: 25px;
+    gap: 25px;
+    padding-left: 17%;
+    margin-top: 4%;
+    border-radius: 5px;
+    
+}
+.first-amount{
+    background-color: #FAFAFA;
+    padding: 44px 23px;
+    border-radius: 5px;
+}
+.small{
+    padding: 44px 35px;
+}
+#color-part{
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+    color: #FF5959
+    ;
+
+}
+
+.taka{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-width: 0.5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    font-family: poppins;
+    color: #B3B3B3;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+
+    
+    
+}
